@@ -135,4 +135,4 @@ This project successfully implements all requirements specified in the Roxiler F
 
 ---
 
-*Created with ❤️ for the Roxiler FullStack Intern Coding Challenge* 
+*Created by Dandipati Durga Praveen for the Roxiler FullStack Intern Coding Challenge* 
