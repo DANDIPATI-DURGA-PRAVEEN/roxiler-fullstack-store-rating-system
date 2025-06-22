@@ -236,6 +236,6 @@ This will start:
 
 This project is created for the Roxiler FullStack Intern Coding Challenge.
 
-## ��‍💻 Author
+## 💻 Author
 
 Created by Dandipati Durga Praveen for the Roxiler FullStack Intern Coding Challenge 
